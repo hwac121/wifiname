@@ -25,7 +25,7 @@ Splash(){
 	sleep 0.05
 	echo "Version 1.0 designed for Parrot Security and Parrot Home OS\e[0m" | lolcat
 	echo "Visit my channel on YouTube - Majik Cat Security" | lolcat
-	echo "by Majik Cat Security\e[0m" | lolcat
+	echo "by Majik Cat Security" | lolcat
 	sleep 0.05
 	echo "......................................................................................"
 	sleep .75
